@@ -1,12 +1,32 @@
 [
   {
-    "publishDate": "",
-    "title": "",
-    "content": "",
-    "link": "",
+    "publishDate": "2019-01-31",
+    "title": "Magna sed dolor kasd kasd vero",
+    "content": "No sanctus dolores vero eirmod aliquyam sea sea magna clita et. Dolore accusam sea ipsum sed accusam et ea stet.",
+    "link": "http://newslink.com",
     "image": {
-      "url": "",
-      "link": ""
+      "url": "http://imageurl.com/image.png",
+      "link": "http://imagelink.com"
+    }
+  },
+  {
+    "publishDate": "2019-01-30",
+    "title": "Magna rebum sit ut tempor erat et sanctus consetetur",
+    "content": "Amet amet duo et gubergren dolor no dolores sea lorem, sea voluptua sit clita takimata ipsum, diam diam vero at sed, ipsum eirmod duo amet justo stet lorem justo duo.",
+    "link": "http://newslink.com",
+    "image": {
+      "url": "http://imageurl.com/image.png",
+      "link": "http://imagelink.com"
+    }
+  },
+  {
+    "publishDate": "2019-01-29",
+    "title": "Eos labore amet kasd sit rebum, justo diam erat ea invidunt amet justo est",
+    "content": "Eirmod aliquyam est est lorem consetetur lorem lorem takimata invidunt, sit at nonumy diam ipsum erat gubergren. Dolore ipsum sadipscing gubergren no gubergren, aliquyam ipsum sit at eirmod. Sit sadipscing voluptua sadipscing eos kasd et, sanctus clita ipsum justo duo.",
+    "link": "http://newslink.com",
+    "image": {
+      "url": "http://imageurl.com/image.png",
+      "link": "http://imagelink.com"
     }
   }
 ]
