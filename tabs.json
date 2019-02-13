@@ -2,7 +2,7 @@
   "news": {
     "title": null,
     "limit": 1,
-    "content": [
+    "items": [
       {
         "title": "Did you know?",
         "content": "Now you can assign tabs to vendors and product types as well as collections, tags and products!"
