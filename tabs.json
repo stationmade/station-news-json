@@ -1,7 +1,23 @@
 {
+  "tips": {
+    "title": "Did you know?",
+    "items": [
+      {
+        "content": "Now you can assign tabs to vendors and product types as well as collections, tags and products!"
+      },
+      {
+        "content": "You can easily copy tabs by clicking the ‘Duplicate’ button on a tab’s edit screen."
+      },
+      { "content": "Liquid tags can be used in tab content, titles and in the description title." },
+      {
+        "content": "You can preview any enabled theme by clicking ‘Preview’ in the action dropdown on the themes page."
+      }
+    ]
+  },
   "news": {
     "title": null,
     "limit": 1,
+    "disable": true,
     "items": [
       {
         "title": "Did you know?",
