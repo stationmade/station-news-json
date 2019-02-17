@@ -24,10 +24,10 @@
         "content": "Tabs has been meticulously coded using semantic HTML. Why does that matter? Users have reported great improvements in SEO ranking!"
       },
       {
-        "content": "Our tabs are built with accessibility in mind and can be navigated with keyboard only."
+        "content": "Our tabs are built with accessibility in mind and can be navigated easily with just a keyboard."
       },
       {
-        "content": "Tabs by Station is fast. In tests, our front end script renders tabs in less than 2 milleseconds."
+        "content": "Tabs by Station is fast. In tests, our front end script renders tabs in less than 2 milliseconds."
       }
     ]
   },
