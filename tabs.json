@@ -11,18 +11,30 @@
       { "content": "Liquid tags can be used in tab content, titles and in the description title." },
       {
         "content": "You can preview any enabled theme by clicking ‘Preview’ in the action dropdown on the themes page."
+      },
+      {
+        "content": "Station has a great theme called Providence that is a popular choice in the Shopify theme store.",
+        "link": {
+          "url": "https://themes.shopify.com/themes/providence/styles/birch",
+          "text": "Check out Providence"
+        }
+      },
+      {
+        "content": "Tabs has meticulously coded using semantic HTML. Why does this matter? Users have reported great improvements in SEO ranking!"
+      },
+      {
+        "content": "Our tabs are built with accessibility in mind and can be navigated with keyboard only."
+      },
+      {
+        "content": "Tabs by Station is fast. In tests, our front end script renders tabs in less than 2 milleseconds."
       }
     ]
   },
   "news": {
     "title": null,
-    "limit": 1,
-    "disable": true,
+    "limit": 2,
+    "hidden": true,
     "items": [
-      {
-        "title": "Did you know?",
-        "content": "Now you can assign tabs to vendors and product types as well as collections, tags and products!"
-      },
       {
         "publishDate": "2019-01-30",
         "title": "Magna rebum sit ut tempor erat et sanctus consetetur",
