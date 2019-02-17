@@ -1,7 +1,7 @@
 {
   "tips": {
     "title": "Did you know?",
-    "index": 4,
+    "index": null,
     "items": [
       {
         "content": "Now you can assign tabs to vendors and product types as well as collections, tags and products!"
