@@ -1,6 +1,7 @@
 {
   "tips": {
     "title": "Did you know?",
+    "index": 4,
     "items": [
       {
         "content": "Now you can assign tabs to vendors and product types as well as collections, tags and products!"
@@ -20,7 +21,7 @@
         }
       },
       {
-        "content": "Tabs has meticulously coded using semantic HTML. Why does this matter? Users have reported great improvements in SEO ranking!"
+        "content": "Tabs has been meticulously coded using semantic HTML. Why does that matter? Users have reported great improvements in SEO ranking!"
       },
       {
         "content": "Our tabs are built with accessibility in mind and can be navigated with keyboard only."
