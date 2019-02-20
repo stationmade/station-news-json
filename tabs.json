@@ -2,22 +2,23 @@
   "tips": {
     "title": "Did you know?",
     "index": null,
-    "items": [
-      {
+    "items": [{
         "content": "Now you can assign tabs to vendors and product types as well as collections, tags and products!"
       },
       {
         "content": "You can easily copy tabs by clicking the ‘Duplicate’ button on a tab’s edit screen."
       },
-      { "content": "Liquid tags can be used in tab content, titles and in the description title." },
+      {
+        "content": "Liquid tags can be used in tab content, titles and in the description tab title."
+      },
       {
         "content": "You can preview any enabled theme by clicking ‘Preview’ in the action dropdown on the themes page."
       },
       {
-        "content": "Station has a great theme called Providence that is a popular choice in the Shopify theme store.",
+        "content": "Station has a great theme called Providence that is very popular in the Shopify theme store.",
         "link": {
-          "url": "https://themes.shopify.com/themes/providence/styles/birch",
-          "text": "Check out Providence"
+          "url": "https://themes.shopify.com/themes/providence",
+          "text": "Try Providence for Free"
         }
       },
       {
@@ -35,8 +36,7 @@
     "title": null,
     "limit": 2,
     "hidden": true,
-    "items": [
-      {
+    "items": [{
         "publishDate": "2019-01-30",
         "title": "Magna rebum sit ut tempor erat et sanctus consetetur",
         "content": "Amet amet duo et gubergren dolor no dolores sea lorem, sea voluptua sit clita takimata ipsum, diam diam vero at sed, ipsum eirmod duo amet justo stet lorem justo duo.",
@@ -53,7 +53,9 @@
         "publishDate": "2019-01-29",
         "title": "Eos labore amet kasd sit rebum, justo diam erat ea invidunt amet justo est",
         "content": "Eirmod aliquyam est est lorem consetetur lorem lorem takimata invidunt, sit at nonumy diam ipsum erat gubergren. Dolore ipsum sadipscing gubergren no gubergren, aliquyam ipsum sit at eirmod. Sit sadipscing voluptua sadipscing eos kasd et, sanctus clita ipsum justo duo.",
-        "link": { "url": "http://newslink.com" },
+        "link": {
+          "url": "http://newslink.com"
+        },
         "image": {
           "url": "http://imageurl.com/image.png",
           "link": "http://imagelink.com"
