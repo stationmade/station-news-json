@@ -9,7 +9,11 @@
         "content": "You can easily copy tabs by clicking the ‘Duplicate’ button on a tab’s edit screen."
       },
       {
-        "content": "Liquid tags can be used in tab content, titles and in the description tab title."
+        "content": "Liquid tags can be used in tab titles (including the Description tab) and content to give you an incredible amount of dynamic functionality.",
+        "link": {
+          "url": "https://help.shopify.com/en/themes/liquid/tags",
+          "text": "Learn more about Liquid tags"
+        }
       },
       {
         "content": "You can preview any enabled theme by clicking ‘Preview’ in the action dropdown on the themes page."
