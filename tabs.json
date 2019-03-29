@@ -9,15 +9,21 @@
       {
         "content": "You can easily copy tabs by clicking the ‘Duplicate’ button on a tab’s edit screen."
       },
-      { "content": "Liquid tags can be used in tab content, titles and in the description title." },
+      {
+        "content": "Liquid tags can be used in tab titles (including the Description tab) and content to give you an incredible amount of dynamic functionality.",
+        "link": {
+          "url": "https://help.shopify.com/en/themes/liquid/tags",
+          "text": "Learn more about Liquid tags"
+        }
+      },
       {
         "content": "You can preview any enabled theme by clicking ‘Preview’ in the action dropdown on the themes page."
       },
       {
-        "content": "Station has a great theme called Providence that is a popular choice in the Shopify theme store.",
+        "content": "Station has a great theme called Providence that is very popular in the Shopify theme store.",
         "link": {
-          "url": "https://themes.shopify.com/themes/providence/styles/birch",
-          "text": "Check out Providence"
+          "url": "https://themes.shopify.com/themes/providence",
+          "text": "Try Providence for Free"
         }
       },
       {
@@ -53,7 +59,9 @@
         "environment": "development",
         "title": "Eos labore amet kasd sit rebum, justo diam erat ea invidunt amet justo est",
         "content": "Eirmod aliquyam est est lorem consetetur lorem lorem takimata invidunt, sit at nonumy diam ipsum erat gubergren. Dolore ipsum sadipscing gubergren no gubergren, aliquyam ipsum sit at eirmod. Sit sadipscing voluptua sadipscing eos kasd et, sanctus clita ipsum justo duo.",
-        "link": { "url": "http://newslink.com" },
+        "link": {
+          "url": "http://newslink.com"
+        },
         "image": {
           "url": "http://imageurl.com/image.png",
           "link": "http://imagelink.com"
