@@ -48,11 +48,15 @@
         "content": "Amet amet duo et gubergren dolor no dolores sea lorem, sea voluptua sit clita takimata ipsum, diam diam vero at sed, ipsum eirmod duo amet justo stet lorem justo duo.",
         "link": {
           "url": "http://newslink.com",
-          "text": "Read more"
+          "text": "Read more",
+          "external": true
         },
         "image": {
-          "url": "http://imageurl.com/image.png",
-          "link": "http://imagelink.com"
+          "src": "http://imageurl.com/image.png",
+          "link": {
+            "url": "http://imagelink.com",
+            "external": true
+          }
         }
       },
       {
@@ -70,7 +74,8 @@
         "title": "Item With No Environment",
         "content": "Eirmod aliquyam est est lorem consetetur lorem lorem takimata invidunt, sit at nonumy diam ipsum erat gubergren. Dolore ipsum sadipscing gubergren no gubergren, aliquyam ipsum sit at eirmod. Sit sadipscing voluptua sadipscing eos kasd et, sanctus clita ipsum justo duo.",
         "link": {
-          "url": "http://newslink.com"
+          "url": "http://newslink.com",
+          "external": true
         }
       }
     ]
