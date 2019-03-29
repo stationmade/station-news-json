@@ -34,7 +34,6 @@
   "news": {
     "title": null,
     "limit": 2,
-    "hidden": true,
     "items": [
       {
         "publishDate": "2019-01-30",
@@ -51,6 +50,7 @@
       },
       {
         "publishDate": "2019-01-29",
+        "environment": "development",
         "title": "Eos labore amet kasd sit rebum, justo diam erat ea invidunt amet justo est",
         "content": "Eirmod aliquyam est est lorem consetetur lorem lorem takimata invidunt, sit at nonumy diam ipsum erat gubergren. Dolore ipsum sadipscing gubergren no gubergren, aliquyam ipsum sit at eirmod. Sit sadipscing voluptua sadipscing eos kasd et, sanctus clita ipsum justo duo.",
         "link": { "url": "http://newslink.com" },
