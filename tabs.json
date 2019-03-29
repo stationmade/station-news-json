@@ -43,6 +43,7 @@
     "items": [
       {
         "publishDate": "2019-01-30",
+        "environment": "production",
         "title": "Magna rebum sit ut tempor erat et sanctus consetetur",
         "content": "Amet amet duo et gubergren dolor no dolores sea lorem, sea voluptua sit clita takimata ipsum, diam diam vero at sed, ipsum eirmod duo amet justo stet lorem justo duo.",
         "link": {
@@ -57,14 +58,19 @@
       {
         "publishDate": "2019-01-29",
         "environment": "development",
-        "title": "Eos labore amet kasd sit rebum, justo diam erat ea invidunt amet justo est",
+        "title": "The New Dashboard",
+        "content": "We've shuffled things around a bit to make things a little more clear (especially for new users). If you're looking for your assigned tabs, we've moved them onto their own page. Click the “Manage shared tabs” link to find them.",
+        "link": {
+          "url": "/tabs",
+          "text": "Manage shared tabs"
+        }
+      },
+      {
+        "publishDate": "2019-01-29",
+        "title": "Item With No Environment",
         "content": "Eirmod aliquyam est est lorem consetetur lorem lorem takimata invidunt, sit at nonumy diam ipsum erat gubergren. Dolore ipsum sadipscing gubergren no gubergren, aliquyam ipsum sit at eirmod. Sit sadipscing voluptua sadipscing eos kasd et, sanctus clita ipsum justo duo.",
         "link": {
           "url": "http://newslink.com"
-        },
-        "image": {
-          "url": "http://imageurl.com/image.png",
-          "link": "http://imagelink.com"
         }
       }
     ]
