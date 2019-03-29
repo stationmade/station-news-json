@@ -39,7 +39,7 @@
   },
   "news": {
     "title": null,
-    "limit": 2,
+    "limit": 4,
     "items": [
       {
         "publishDate": "2019-01-30",
