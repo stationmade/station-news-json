@@ -63,14 +63,18 @@
         "publishDate": "2019-01-29",
         "environment": "development",
         "title": "The New Dashboard",
-        "content": "We've shuffled things around a bit to make things a little more clear (especially for new users). If you're looking for your assigned tabs, we've moved them onto their own page. Click the “Manage shared tabs” link to find them.",
+        "content": "We've shuffled things around a bit to improve clarity. If you're looking for your assigned tabs, they’re on their own page.",
         "link": {
           "url": "/tabs",
           "text": "Manage shared tabs"
+        },
+        "image": {
+          "src": "https://source.unsplash.com/WYd_PkCa1BY/800x450"
         }
       },
       {
         "publishDate": "2019-01-29",
+        "environment": "test",
         "title": "Item With No Environment",
         "content": "Eirmod aliquyam est est lorem consetetur lorem lorem takimata invidunt, sit at nonumy diam ipsum erat gubergren. Dolore ipsum sadipscing gubergren no gubergren, aliquyam ipsum sit at eirmod. Sit sadipscing voluptua sadipscing eos kasd et, sanctus clita ipsum justo duo.",
         "link": {
