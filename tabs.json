@@ -43,7 +43,7 @@
     "items": [
       {
         "publishDate": "2019-01-30",
-        "environment": "production",
+        "environment": "test",
         "title": "Magna rebum sit ut tempor erat et sanctus consetetur",
         "content": "Amet amet duo et gubergren dolor no dolores sea lorem, sea voluptua sit clita takimata ipsum, diam diam vero at sed, ipsum eirmod duo amet justo stet lorem justo duo.",
         "link": {
@@ -67,19 +67,19 @@
         "link": {
           "url": "/tabs",
           "text": "Manage shared tabs"
-        },
-        "image": {
-          "src": "https://source.unsplash.com/OCMcTCu97EE/800x400"
         }
       },
       {
         "publishDate": "2019-01-29",
         "environment": "test",
-        "title": "Item With No Environment",
+        "title": "Test Environment",
         "content": "Eirmod aliquyam est est lorem consetetur lorem lorem takimata invidunt, sit at nonumy diam ipsum erat gubergren. Dolore ipsum sadipscing gubergren no gubergren, aliquyam ipsum sit at eirmod. Sit sadipscing voluptua sadipscing eos kasd et, sanctus clita ipsum justo duo.",
         "link": {
           "url": "http://newslink.com",
           "external": true
+        },
+        "image": {
+          "src": "https://source.unsplash.com/OCMcTCu97EE/800x400"
         }
       }
     ]
