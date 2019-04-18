@@ -62,8 +62,8 @@
       {
         "publishDate": "2019-01-29",
         "environment": "development",
-        "title": "The new dashboard",
-        "content": "We've shuffled up our home page to make things a little more clear (hopefully). If you're looking for your assigned tabs, you can find them on their own “Shared tabs” page.",
+        "title": "Latest news",
+        "content": "We’ve redesigned the home page to make managing your tabs faster and easier. Tabs that you’ve already created in the app now have their own shared tabs page.",
         "link": {
           "url": "/tabs",
           "text": "Manage shared tabs"
