@@ -40,30 +40,6 @@
   "news": {
     "title": null,
     "limit": 4,
-    "items": [
-      {
-        "publishDate": "2019-01-29",
-        "environment": "production",
-        "title": "Latest news",
-        "content": "We’ve redesigned the home page to make managing your tabs faster and easier. Tabs that you’ve already created in the app now have their own shared tabs page.",
-        "link": {
-          "url": "/tabs",
-          "text": "Manage shared tabs"
-        }
-      },
-      {
-        "publishDate": "2019-01-29",
-        "environment": "test",
-        "title": "Test Environment",
-        "content": "Eirmod aliquyam est est lorem consetetur lorem lorem takimata invidunt, sit at nonumy diam ipsum erat gubergren. Dolore ipsum sadipscing gubergren no gubergren, aliquyam ipsum sit at eirmod. Sit sadipscing voluptua sadipscing eos kasd et, sanctus clita ipsum justo duo.",
-        "link": {
-          "url": "http://newslink.com",
-          "external": true
-        },
-        "image": {
-          "src": "https://source.unsplash.com/OCMcTCu97EE/800x400"
-        }
-      }
-    ]
+    "items": []
   }
 }
