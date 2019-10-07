@@ -33,6 +33,13 @@
   "news": {
     "title": null,
     "limit": 4,
-    "items": []
+    "items": [
+      {
+        "publishDate": "2019-10-07",
+        "environment": "development",
+        "title": "New Rich Text Editor",
+        "content": "Our tab content editor has been rebuilt from the ground-up. Now you can easily and add images, videos, tables and more to your shared tab content."
+      }
+    ]
   }
 }
