@@ -35,10 +35,8 @@
     "limit": 4,
     "items": [
       {
-        "publishDate": "2019-10-07",
-        "environment": "development",
-        "title": "New Formatting Options",
-        "content": "Our tab content editor has been rebuilt from the ground-up. Now you can easily add images, videos, tables and more to your shared tab content."
+        "title": "Latest News",
+        "content": "Oct 7, 2017  - Our tab content editor has been rebuilt from the ground-up. Now you can easily add images, videos, tables and more to your shared tab content."
       }
     ]
   }
