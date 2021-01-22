@@ -33,6 +33,12 @@
   "news": {
     "title": null,
     "limit": 4,
-    "items": []
+    "items": [
+      {
+        "environment": "development",
+        "title": "Test title",
+        "content": "Test content"
+      }
+    ]
   }
 }
