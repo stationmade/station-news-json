@@ -37,7 +37,7 @@
       {
         "environment": "development",
         "title": "News",
-        "content": "Tabs has a new look! We've made some changes to help make the app easier to use. You can now manage all of your tabs from the new Tabs page.",
+        "content": "Tabs has a new look! We've been working hard to make the app easier to use. You can now manage all of your tabs from the new Tabs page.",
         "link": {
           "url": "/tabs",
           "text": "Visit the Tabs page"
